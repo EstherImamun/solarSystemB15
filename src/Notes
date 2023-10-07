@@ -14,5 +14,35 @@ Approach :
 1. Write the code
 2. Test it and commit it in the local repo
 3. push the code to github
+4. add the feature and test it
+5. merge your branch to main on your local
+6. update the remote.
 
--------------------------------------------------------------------------------
+---------------------------------------------
+check if your branch is up to date with the github
+
+git fetch--> checks if there is any update on the github in any branch
+if there is an update, it will tell you the branch name in which there is an update
+if there is no update, it will simply output nothing.
+
+git fetch doesn't pull/updates the code, it just checks
+in other to pull the update ---> git pull.
+
+
+git branch ----> tells you your current branch.
+
+git branch branchName --> to create a new branch
+git checkout branchName --> to switch to the new branch.
+
+
+------------------------------------------------------------------
+
+While working on feature sun, Dana has an error in the code.
+now in order to solve this error, she doesn't want to mess up other features that are working fine.
+
+so what should she do in order to preserve what is working fine and then work on the issue.
+
+Solution:
+
+create a separate branch and resolve the issue in that branch
+
