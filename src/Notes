@@ -44,5 +44,10 @@ so what should she do in order to preserve what is working fine and then work on
 
 Solution:
 
-create a separate branch and resolve the issue in that branch
+1. create a separate branch and resolve the issue in that branch.
+2. make sure the right branch is there and commit to it.
+
+When you have fixed the issue in the branch that you created:
+
+
 
