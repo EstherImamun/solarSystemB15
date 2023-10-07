@@ -1,0 +1,18 @@
+git class 05
+-----------Branches------------------
+1. We need branches to avoid conflicts in every commit
+2. We need branches in other to avoid messing up the main branch
+
+Scenario:
+A company wants to develop a solar system.
+
+Requirements:
+Develop a solar system basic operational model and deploy it.
+
+Anna:
+Approach :
+1. Write the code
+2. Test it and commit it in the local repo
+3. push the code to github
+
+-------------------------------------------------------------------------------
