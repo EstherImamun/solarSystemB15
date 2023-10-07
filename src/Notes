@@ -49,12 +49,9 @@ Solution:
 
 When you have fixed the issue in the branch that you created:
 
-
 In order to merge after you have made the fix:
-
-1. Switch to the branch you want to merge your resolved issue or code to
-2. Use the command; git merge branchName --> where branchName is the name of the branch you want to merge
-
+1. Switch to the branch you want to merge your resolved issue or code to.
+2. Use the command; git merge branchName --> where branchName is the name of the branch you want to merge.
 
 
 
@@ -73,4 +70,7 @@ In order to merge after you have made the fix:
 
 
 
+
+=======
+>>>>>>> issueSun
 
