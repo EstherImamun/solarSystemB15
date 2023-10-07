@@ -44,5 +44,33 @@ so what should she do in order to preserve what is working fine and then work on
 
 Solution:
 
-create a separate branch and resolve the issue in that branch
+1. create a separate branch and resolve the issue in that branch.
+2. make sure the right branch is there and commit to it.
+
+When you have fixed the issue in the branch that you created:
+
+
+In order to merge after you have made the fix:
+
+1. Switch to the branch you want to merge your resolved issue or code to
+2. Use the command; git merge branchName --> where branchName is the name of the branch you want to merge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
